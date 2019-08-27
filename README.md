@@ -9,14 +9,14 @@ mass from the rotation curve".
 
 ### Content
 
-- The **results** folder contains the cumulative profile for the total and DM masses as a function of galactocentric distance.  
+- `results/` - contains the cumulative profile for the total and DM masses as a function of galactocentric distance. 
+- `figs/` - contains the figures of our paper + additional figures.
 
 
 ### Credit
 
 If you use this material, please don't forget to cite **Karukes et al. in prep.**
 Please cite in bundle with [Karukes et al. 2019](https://arxiv.org/abs/1901.02463)
-
 Thanks :)
 
 
