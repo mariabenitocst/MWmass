@@ -1,0 +1,43 @@
+# M200 extracted from figure 1 Wang+2015 + Gaia measurements
+# All values multiplied by 1e12 Msun
+# Mcentral - sigma  Mcentral  Mcentral+sigma   reference
+# Dynamical tracers of the halo
+0.20220588  1.90073529  5.496323529   WE99
+1.1011029   1.8014705  2.19852941     Sakamoto03noLeo
+1.4981617  2.50183823  2.99816176     Sakamoto03
+0.5  0.6985294  1.900735294           Battaglia05
+0.6213235  0.819852  1.1231617        Xue08
+0.941176  1.1397058  2.441176         Watkins10
+1.0790441  1.3768382  1.6801470       Gnedin10
+0.4779411  0.775735  1.17279411       Kafle12
+0.5606617  0.76470588  1.0625         Deason12
+0.55514705  0.70955882  1.01838235    Kafle14
+1.2610294   1.3602941  1.509191176    Eadie15noPal3
+1.42095588  1.5533088  1.729779411    Eadie15
+0.63        0.71       0.81           EadieJuric18
+# Rotation curve
+1.0238970  1.2610294  1.4981617       McMillan11
+0.8308823  1.53125  3.6213235         Nesti&Salucci13NFW
+0.5551470  1.1121323  2.5625          Nesti&Salucci13Bur
+# Escape speed
+1.02389705  1.4209558  1.9724264      Smith07
+1.35477941  1.6029411  1.889705882    Piffl14
+0.78        1.28       1.96           Monari18
+1.04        1.55       2.19           Monari18LCDM
+0.67        0.91       1.22           Deason19
+# Stream modelling
+0.4393382  0.5606617  0.6819852       Gibbons14
+1.30514705  1.7022058  2.0992647      Kupper15
+# satellite dynamics
+0.4779411  0.5827205  0.70404411      Sales07
+0.5827205  0.979779  1.6801470        Busha11
+1.001838  1.310661  1.7077205         Boylan-Kolchin13
+0.902573  1.150735  1.8731617         Gonzalez13
+0.8474264  1.1011029  2.1213235       Barber14
+0.455882  0.781249  1.34375           Cautun14
+0.81       1.04       1.18            Callingham18
+# LG dynamics
+0.5055147  0.803308  1.200367         Penarrubia14
+# timing argument
+1.9007352  2.430147  2.920955         Li&White08
+

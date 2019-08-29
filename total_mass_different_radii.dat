@@ -1,0 +1,53 @@
+# Values for the mass of the MW (total) at different radii
+# radii [kpc]    mass [1e12]   delta_m[1e12]   delta_p[1e12]   reference Gaia
+# (NaN stands for no errorbars in corresponding reference)
+## == halo tracers ==================================================
+# BHBs
+60.        0.40     0.07      0.07     Xue+08                      no
+50.        0.42     0.04      0.04     Deason+12                   no
+50.        0.448    0.014     0.015    WilliamsEvans15             no
+#25.        0.21     NaN       NaN      Kafle+12                    no
+# halo stars
+80.        0.69     0.12      0.30     Gnedin10                    no
+#120.       1.05     NaN       NaN      Dehnen+06                   no
+# globular clusters
+50.        0.54      0.08      0.11     Vasiliev18                  yes
+100.      0.85     0.20      0.33     Vasiliev18                  yes
+25.        0.26     0.02      0.03     Eadie&Juric2018             yes
+50.        0.38     0.05      0.05     Eadie&Juric2018             yes
+100.       0.54     0.08     0.08     Eadie&Juric2018             yes
+20.        0.191    0.017     0.018    Posti&Helmi2018             yes
+21.1       0.21     0.03      0.04     Watkins+2018                yes
+39.5       0.42     0.06      0.07     Watkins+2018                yes
+39.5       0.61     0.12      0.18     Sohn+2018                   no
+125.       0.522    0.43      0.41     EadieHarris16               no
+# globular clusters + dwarf galaxies
+50.        0.54     0.36      0.02     WE99                        no
+# satellite galaxies + globular clusters + field horizontal branch stars
+50.       0.55     0.02      0.00     Sakamoto2003                no
+# satellite galaxies + GCs + field BHBs + red giants
+120.       0.54     0.20      0.14     Battaglia05NFW                 no
+120.       0.9     0.60      0.30     Battaglia05TF                 no
+# halo stars + GCs + satellite galaxies
+100.        2.22     0.5       0.5      Watkins10beta_data          no
+100.       1.29     0.31      0.31     Watkins10beta_datawoDraco   no
+100.       1.38     0.39      0.39     Watkins10beta_iso           no
+100.       0.69     0.19      0.19    Watkins10beta_isowoDraco    no
+## == rotation curve ================================================
+60.        0.59     0.05      0.05     McMillan11                  no
+## == escape speed ==================================================
+50.        0.298    0.052     0.069   Williams17SPL               no
+50.        0.404    0.076     0.110    Smith+07NFW                 no
+50.        0.387    0.056     0.064    Smith+07contractedNFW       no
+50.        0.358    0.017     0.004    Smith+07WEhalos             no
+## == stream modelling ==============================================
+19.        0.21     0.04      0.04     Kupper+2015                 no
+50.        0.29     0.05      0.05     Gibbons+2014                no
+100.       0.41     0.04     0.04     Gibbons+2014                no
+200.       0.56     0.12      0.12     Gibbons+2014                no
+20       0.25    0.02     0.02         Malhan&Ibata2018            yes
+## == various constraints ============================================
+# satellites + RC + escape speed + timing argument
+50.        0.54    0.12       0.14     Kochanek96wLeo              no
+50.        0.43    0.1        0.18     Kochanek96woLeo             no
+
