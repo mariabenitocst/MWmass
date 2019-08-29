@@ -1,7 +1,6 @@
 # Milky Way mass
 
-This repository contains the results and part of the code from our recent paper "A robust estimate of the Milky Way
-mass from the rotation curve".
+This repository contains data and results from our recent paper "A robust estimate of the Milky Way mass from the rotation curve".
 
 ### Brief Description
 
@@ -9,8 +8,9 @@ mass from the rotation curve".
 
 ### Content
 
-- `results/` - contains the cumulative profile for the total and DM masses as a function of galactocentric distance. 
+- `results/` - contains the cumulative profile for the total and DM masses as a function of galactocentric distance
 - `data/` - contains mass estimates taken from the literature (please see **Karukes et al. in prep.** for references)
+- `figs/` - contains figures
 
 
 ### Credit
