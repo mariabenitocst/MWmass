@@ -16,7 +16,7 @@ This repository contains data and results from our recent paper "A robust estima
 ### Credit
 
 If you use this material, please don't forget to cite **Karukes et al. in prep.**
-Please cite in bundle with [Karukes et al. 2019](https://arxiv.org/abs/1901.02463)
+Please cite in bundle with [Karukes et al. 2019](https://arxiv.org/abs/1901.02463).
 Thanks :)
 
 
